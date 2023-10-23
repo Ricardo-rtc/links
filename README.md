@@ -10,7 +10,8 @@ Aqui está o calendário das disciplinas para o curso no IFSP Campus São Paulo.
 
   ADMINISTRAÇÃO DE EMPRESAS
 - [SPOADME](https://eadcampus.spo.ifsp.edu.br/course/view.php?id=6143)
-  RECURSOS HUMANOS EM TECNOLOGIA DA INFORMAÇÃO
+
+RECURSOS HUMANOS EM TECNOLOGIA DA INFORMAÇÃO
 - [SPORHTI](https://eadcampus.spo.ifsp.edu.br/course/view.php?id=1941)
 
 ## Quarta-feira
@@ -22,7 +23,8 @@ Aqui está o calendário das disciplinas para o curso no IFSP Campus São Paulo.
 
   ENGENHARIA DE SOFTWARE 1
 - [SPOENG1](https://eadcampus.spo.ifsp.edu.br/user/index.php?id=8210)
-  PRÁTICAS E FERRAMENTAS DE DESENVOLVIMENTO DE SOFTWARE
+ 
+PRÁTICAS E FERRAMENTAS DE DESENVOLVIMENTO DE SOFTWARE
 - [SPOPFDS](https://eadcampus.spo.ifsp.edu.br/course/view.php?id=4353)
 
 ## Sexta-feira
